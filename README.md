@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>iOS SYSTEM BREACH</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background: black;
+      color: #00ff00;
+      font-family: 'Courier New', Courier, monospace;
+      padding: 20px;
+      text-align: center;
+      animation: glitch 1s infinite alternate;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+    .glitch {
+      animation: flicker 0.1s infinite;
+    }
+    @keyframes flicker {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.1; }
+    }
+    @keyframes glitch {
+      0% { color: #0f0; }
+      50% { color: #f00; }
+      100% { color: #0f0; }
+    }
+  </style>
+</head>
+<body>
+  <h1 class="glitch">📵 DEVICE COMPROMISED 📵</h1>
+  <p>Analyzing files...</p>
+  <p>Injecting payload...</p>
+  <p>Bypassing iCloud protection...</p>
+  <p><strong>WARNING: All data will be collected</strong></p>
+  <p>If you see this screen, your iPhone has been accessed remotely.</p>
+  <p>Do not turn off your iPhone</p>
+  <p>Processing....42%</p>
+  <p>Processing....86%</p>
+  <p>Processing....100%</p>
+  <p>Process complete. All iPhone data will be collected.</p>
+  <p>IPHONE DATA COLLECTED SUCCESSFULLY</p>
+  <p>All your files, photos, videos and documents have been encrypted with military-grade encryption.</p>
+  <p><strong>DON'T PANIC</strong> — if you want your data back:</p>
+  <p>Send $650 PayPal: <strong>datareturnplease@gmail.biz</strong></p>
+  <p>OR send 0.005 BTC to this wallet:</p>
+  <p><strong>1FAK3B1TCO1NADDR355XDLOL42069</strong></p>
+  <hr>
+  <p>YOUR FILES HAVE BEEN ENCRYPTED BY <strong>SHADOW LOCKER</strong></p>
+  <hr>
+  <p>Bisous Mouaah 💋</p>
+  <p class="glitch">💀 iOS Rootkit v3.1 Loaded 💀</p>
+</body>
+</html>
+
